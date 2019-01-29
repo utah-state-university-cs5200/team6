@@ -3,3 +3,4 @@ Team 6
 
 Andrew Mortenson
 Jake Yeagley
+Evan Burke
